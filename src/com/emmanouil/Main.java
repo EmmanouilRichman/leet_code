@@ -1,4 +1,4 @@
-package com.company;
+package com.emmanouil;
 
 public class Main {
 

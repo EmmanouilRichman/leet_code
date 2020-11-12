@@ -1,4 +1,4 @@
-package com.company;
+package com.emmanouil;
 
 /**
  * Definition for singly-linked list.
